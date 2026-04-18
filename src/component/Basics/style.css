@@ -362,7 +362,7 @@ html {
   .card-price {
     font-size: 1.25rem;
   }
-}
+
 
 .btn-group__item:after {
   content: "✔️";
