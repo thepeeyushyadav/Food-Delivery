@@ -47,7 +47,7 @@ const Restaurant = ()=>
         menuList={menuList}
         onSearch={handleSearch}
      />
-     <MenuCard menuData={menuData}/>
+     <MenuCard menuData={menuData}
      </>
     );
 };
