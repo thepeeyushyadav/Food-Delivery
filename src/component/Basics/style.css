@@ -363,7 +363,7 @@ html {
     font-size: 1.25rem;
   }
 }
-}
+
 .btn-group__item:after {
   content: "✔️";
   margin-left: 0.5rem;
